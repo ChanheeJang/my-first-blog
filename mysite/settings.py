@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-n05t=)bsi(rq%^-x6qvgd0#8fwk-i0^uttnf7rbv-yryql2us(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["auxi.pythonanywhere.com"]
 ##--!!(1) 배포시 : ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 # Application definition
